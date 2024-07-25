@@ -13,7 +13,7 @@ O diretório de segurança é fundamental para:
 ## Público-Alvo
 
 ### Recrutadores Técnicos
-Demonstra a habilidade de Luana em integrar e gerenciar tecnologias de segurança avançadas e práticas de conformidade, enfatizando sua competência em proteger infraestruturas críticas.
+Demonstra a minha habilidade em integrar e gerenciar tecnologias de segurança avançadas e práticas de conformidade, enfatizando sua competência em proteger infraestruturas críticas.
 
 ### Recrutadores Não Técnicos
 Destaca a importância de uma infraestrutura segura para a continuidade dos negócios, mostrando como práticas de segurança robustas podem prevenir perdas financeiras e danos à reputação.
@@ -29,4 +29,8 @@ Explica a relevância das práticas de segurança para garantir operações inin
 - **Gestão de Identidade e Acesso**: Controle rigoroso sobre quem pode acessar informações e recursos críticos, utilizando soluções como Azure Active Directory.
 - **Criptografia de Dados**: Proteção de dados em repouso e em trânsito, utilizando as melhores práticas e padrões da indústria para criptografar dados sensíveis.
 - **Monitoramento e Resposta a Incidentes de Segurança**: Implementação de sistemas de detecção e resposta que monitoram continuamente a infraestrutura para identificar e responder a ameaças de segurança rapidamente.
-- **
+- **Conformidade com Regulamentações**: Adesão a normas como GDPR, HIPAA, e PCI-DSS para garantir que a gestão de dados esteja em conformidade com as leis de proteção de dados.
+
+## Impacto nos Negócios
+
+A manutenção de um alto padrão de segurança não apenas protege a empresa contra violações de dados e outras ameaças cibernéticas, mas também reforça a confiança dos clientes e parceiros, garantindo a integridade e a confiabilidade dos serviços oferecidos.
