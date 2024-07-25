@@ -13,7 +13,7 @@ O subdiretório de produção é crucial para:
 ## Público-Alvo
 
 ### Recrutadores Técnicos
-Destaca a minha competência de configurar e gerenciar ambientes de produção críticos utilizando Terraform, refletindo práticas avançadas de segurança e gestão de infraestrutura.
+Destaca a competência de Luana em configurar e gerenciar ambientes de produção críticos utilizando Terraform, refletindo práticas avançadas de segurança e gestão de infraestrutura.
 
 ### Recrutadores Não Técnicos
 Enfatiza a importância de um ambiente de produção seguro e eficiente, mostrando como isso contribui para a estabilidade e confiabilidade da empresa no mercado.
@@ -27,8 +27,12 @@ Explica como a gestão cuidadosa do ambiente de produção impacta positivamente
 ## Tecnologias e Metodologias Utilizadas
 
 - **Terraform**: Empregado para garantir que a infraestrutura de produção seja implantada de forma controlada e consistente.
-- **Práticas de Segurança e Compliance**: Integrações rigorosas com políticas de segurança e conformidade para proteger dados e operações.
+- **Práticas de Segurança e Compliance**: Adota rigorosas políticas de segurança e conformidade, incluindo:
+  - **ISO/IEC 27001**: Normas internacionais para a gestão de segurança da informação.
+  - **GDPR**: Regulamentações gerais de proteção de dados para proteger e privar informações pessoais dentro da UE.
+  - **PCI DSS**: Padrões de segurança de dados para todas as entidades que lidam com informações de cartões de crédito.
+  - **SOC 2 Tipo II**: Relatórios baseados em controles de segurança operacional ao longo do tempo.
 
 ## Impacto nos Negócios
 
-A eficácia do ambiente de produção é diretamente ligada à satisfação do cliente e à reputação da empresa, pois garante a entrega contínua de serviços e produtos de alta qualidade.
+A eficácia do ambiente de produção é diretamente ligada à satisfação do cliente e à reputação da empresa, pois garante a entrega contínua de serviços e produtos de alta qualidade, ao mesmo tempo que assegura que todos os aspectos de segurança e conformidade estejam sendo rigorosamente seguidos e monitorados.
