@@ -12,19 +12,19 @@ Este diretório assegura a implementação sistemática de:
 
 ## Subdiretórios e Conteúdos
 
-### 01. Gestão de Identidade e Acesso (IdentityManagement)
+### 8.1. Gestão de Identidade e Acesso (IdentityManagement)
 Contém Terraform scripts para gestão de acesso e identidade, integrando com Azure Active Directory.
 
-### 02. Segurança de Rede (NetworkSecurity)
+### 8.2. Segurança de Rede (NetworkSecurity)
 Armazena módulos de Terraform para configuração de firewalls, grupos de segurança e políticas de rede.
 
-### 03. Proteção de Dados (DataProtection)
+### 8.3. Proteção de Dados (DataProtection)
 Scripts relacionados à implementação de criptografia e proteção de dados sensíveis.
 
-### 04. Conformidade (Compliance)
+### 8.4. Conformidade (Compliance)
 Scripts que ajudam a garantir que todas as operações estejam em conformidade com normas como GDPR e HIPAA.
 
-### 05. Monitoramento (Monitoring)
+### 8.5. Monitoramento (Monitoring)
 Configurações de monitoramento de segurança e sistemas de alerta para detectar e responder a incidentes de segurança.
 
 ## Público-Alvo
