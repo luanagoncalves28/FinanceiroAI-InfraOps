@@ -33,8 +33,8 @@ Este subdiretório abrange o planejamento estratégico, vital para direcionar to
 ## Público-Alvo
 
   ### Recrutadores Técnicos
-    **Contexto**: Este subdiretório ilustra como Luana integra tecnologias avançadas e metodologias estratégicas para desenvolver soluções financeiras robustas.
-    **Detalhes**: Luana utiliza Terraform para infraestrutura como código, garantindo implementações consistentes e seguras, e Kubernetes para escalabilidade e gestão eficiente de recursos, essencial para o setor financeiro que exige alta disponibilidade e performance.
+  - **Contexto**: Este subdiretório ilustra como Luana integra tecnologias avançadas e metodologias estratégicas para desenvolver soluções financeiras robustas.
+  - **Detalhes**: Luana utiliza Terraform para infraestrutura como código, garantindo implementações consistentes e seguras, e Kubernetes para escalabilidade e gestão eficiente de recursos, essencial para o setor financeiro que exige alta disponibilidade e performance.
 
   ### Recrutadores Não Técnicos
     **Contexto**: A importância do planejamento estratégico é comunicada de forma a demonstrar como ele contribui diretamente para a eficiência operacional e redução de custos.
