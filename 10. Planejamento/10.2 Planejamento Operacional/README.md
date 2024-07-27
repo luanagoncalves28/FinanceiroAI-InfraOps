@@ -7,12 +7,12 @@ Este subdiretório é dedicado ao Planejamento Operacional, onde são desenvolvi
 ## Explicação para o meu Público-Alvo:
 
 ### Recrutadores Técnicos
-  **Contexto**: Aqui, demonstro como aplico metodologias ágeis e ferramentas como Terraform e Kubernetes para otimizar o fluxo de trabalho operacional, garantindo que todas as operações sejam escaláveis e seguras.
-  **Detalhes**: A integração contínua e a entrega contínua (CI/CD) são utilizadas para automatizar a implementação de infraestruturas, permitindo atualizações rápidas e seguras, essenciais no dinâmico mercado financeiro.
+   **Contexto**: Aqui, demonstro como aplico metodologias ágeis e ferramentas como Terraform e Kubernetes para otimizar o fluxo de trabalho operacional, garantindo que todas as operações sejam escaláveis e seguras.
+   **Detalhes**: A integração contínua e a entrega contínua (CI/CD) são utilizadas para automatizar a implementação de infraestruturas, permitindo atualizações rápidas e seguras, essenciais no dinâmico mercado financeiro.
 
 ### Recrutadores Não Técnicos
-  **Contexto**: O Planejamento Operacional é vital para manter os custos sob controle e melhorar a eficiência operacional.
-  **Detalhes**: Uso de ferramentas de gestão de projetos para visualizar o progresso e as dependências operacionais, facilitando a comunicação clara dos avanços aos stakeholders e assegurando que os projetos permaneçam dentro do orçamento e prazo.
+   **Contexto**: O Planejamento Operacional é vital para manter os custos sob controle e melhorar a eficiência operacional.
+   **Detalhes**: Uso de ferramentas de gestão de projetos para visualizar o progresso e as dependências operacionais, facilitando a comunicação clara dos avanços aos stakeholders e assegurando que os projetos permaneçam dentro do orçamento e prazo.
 
 ### Profissionais da Área Técnicos
   **Contexto**: Exploro como configurações específicas do Kubernetes e scripts de Terraform são utilizados para gerenciar recursos de forma eficiente.
