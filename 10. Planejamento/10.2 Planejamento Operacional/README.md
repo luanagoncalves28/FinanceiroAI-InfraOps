@@ -4,7 +4,7 @@
 
 Este subdiretório é dedicado ao Planejamento Operacional, onde são desenvolvidos planos detalhados de ação, cronogramas e alocação de recursos. O foco é maximizar a eficiência e assegurar a execução precisa das operações diárias, especialmente cruciais no setor financeiro, onde a precisão e a conformidade regulatória são fundamentais.
 
-## Público-Alvo
+## Explicação para o meu Público-Alvo:
 
 ### Recrutadores Técnicos
   **Contexto**: Aqui, demonstro como aplico metodologias ágeis e ferramentas como Terraform e Kubernetes para otimizar o fluxo de trabalho operacional, garantindo que todas as operações sejam escaláveis e seguras.
